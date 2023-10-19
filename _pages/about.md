@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: 刘雅琪照片.png
+  image: upphoto.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 307</p>
