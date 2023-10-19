@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Cheng-Jun Wang",
+    "name": "YaqiLiu",
     "label": "",
     "image": "",
-    "email": "wangchengjun@nju.edu.cn",
+    "email": "liuyaqi6616@126.com",
     "phone": "",
     "url": "https://socratesclub.github.io/",
     "summary": "",
@@ -14,20 +14,20 @@
       "countryCode": "CN",
       "region": "Jiangsu"
     },
-    "profiles": [
+   "profiles": [
       {
-        "network": "Twitter",
-        "username": "ChengJunWang",
-        "url": "https://twitter.com/ChengJunWang"
+        "network":"",
+        "username": "",
+        "url":""
       }
     ]
   },
   "work": [
     {
       "name": "School of Journalism and Communication, Nanjing University",
-      "position": "Associate Professor",
+      "position": "graduate student",
       "url": "",
-      "startDate": "2017",
+      "startDate": "2023",
       "endDate": "Now",
       "summary": "",
       "highlights": [
@@ -38,15 +38,15 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "City University of Hong Kong, Hong Kong, China",
+      "institution": "",
       "url": "",
-      "area": "Media and Communication",
-      "studyType": "PhD",
-      "startDate": "2010",
-      "endDate": "2014",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
       "score": "",
       "courses": [
-        "Information Diffusion"
+        ""
       ]
     }
   ],
