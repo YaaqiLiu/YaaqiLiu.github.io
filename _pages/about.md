@@ -23,11 +23,7 @@ YaqiLiu is currently a graduate student in the School of Journalism and Communic
 
 
 
-<br>
-    
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
 
-<br>
 
 
 
